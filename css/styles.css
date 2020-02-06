@@ -32,3 +32,9 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+.fas{
+    margin-right: 5px;
+}
+li{
+    margin-right: 10px;
+}
