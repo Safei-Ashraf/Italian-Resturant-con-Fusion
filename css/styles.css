@@ -47,3 +47,6 @@ li{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+a:hover{
+    cursor: pointer;
+}
