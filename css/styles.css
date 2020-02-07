@@ -50,3 +50,21 @@ li{
 a:hover{
     cursor: pointer;
 }
+.modal-backdrop, 
+.modal-backdrop.fade.in{
+opacity: 1;
+filter: alpha(opacity=100);
+background: #fff;
+}
+.carousel{
+    background-color: #512DA8;
+}
+.carousel-item{
+    height: 300px;
+}
+.carousel-item img{
+    min-height: 300px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
