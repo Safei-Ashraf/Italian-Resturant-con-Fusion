@@ -2,7 +2,7 @@
 
 $(document).ready(function()
 {
-    $('#my-carousel').carousel({interval : 1000});
+    $('#my-carousel').carousel({interval : 3000});
     $('#carousel-pause').click(function(){
         $('#my-carousel').carousel('pause');
     });
