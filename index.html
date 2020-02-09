@@ -6,12 +6,16 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <link rel="shortcut icon" href="img/Photo.ico">
     
         <!-- Bootstrap CSS -->
+        <!-- build:css css/main.css -->
         <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/all.min.css">
         <link rel="stylesheet" href="/node_modules/bootstrap-social/bootstrap-social.css">
         <link rel="stylesheet" href="css/styles.css">
+        <!-- endbuild -->
+       
     <title>Ristorante Con Fusion</title>
 </head>
 
@@ -33,7 +37,8 @@
             </ul>
             <!--LOGIN Button-->
             <span class="navbar-text">
-                <a data-toggle="modal" data-target="#login-modal">
+                <a class="btn" id="login-btn">
+                    <!--data-toggle="modal" data-target="#login-modal"-->
                 <span class="fas fa-sign-in-alt"></span> Login</a>
             </span>
         </div>
@@ -163,7 +168,8 @@
                 </div>
                 <div class="col-12  col-sm-3 mr-auto align-self-center">
                     <a class="btn btn-warning btn-block" type="button"
-                    role="button" data-toggle="modal" data-target="#reserve-modal">Reserve A Table</a>
+                    role="button" id="reserve-btn">Reserve A Table</a>
+                    <!-- data-toggle="modal" data-target="#reserve-modal"-->
                 </div>
 
             </div>
@@ -326,10 +332,12 @@
         </div>
     </footer>
     <!-- jQuery first, then Popper.js, then Bootstrap JS. -->
-    <script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
-    <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
-    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="script.js"></script>
+       <!--build:js js/main.js -->
+       <script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
+       <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
+       <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+       <script src="/js/script.js"></script>
+       <!-- endbuild -->
 </body>
 
 </html>

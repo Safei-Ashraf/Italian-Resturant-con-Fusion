@@ -1,70 +1,86 @@
-.row-header{
-    margin: 0px auto;
-    padding: 0px auto;
-}
-.row-content{
-    margin: 0 auto;
-    padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge;
-    min-height: 400px;
-}
-.footer{
-    background-color: #D1C4E9;
-    margin: 0px auto;
-    padding: 20px 0px 20px 0px;
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px;
 }
 
-.jumbotron{
-    padding: 70px 30px;
-    margin: 0 auto;
-    background: #9575CD;
-    color: floralwhite;
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
 }
-.address{
-    font-size: 80%;
-    margin: 0;
-    color: #0f0f0f;
+
+.footer {
+  background-color: #D1C4E9;
+  margin: 0px auto;
+  padding: 20px 0px;
 }
-body{
-    padding: 50px 0 0 0;
-    z-index: 0;
+
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #9575CD;
+  color: floralwhite;
 }
-.navbar-dark{
-    background-color: #512DA8;
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
 }
-.fas, .fab{
-    margin-right: 5px;
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
 }
-li{
-    margin-right: 10px;
+
+.navbar-dark {
+  background-color: #512DA8;
 }
-.badge{
-    margin-right: 5px;
-}
+
 .tab-content {
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
-    padding: 10px;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
 }
-a:hover{
-    cursor: pointer;
+
+.carousel {
+  background: #512DA8;
 }
-.modal-backdrop, 
-.modal-backdrop.fade.in{
-opacity: 1;
-filter: alpha(opacity=100);
-background: #fff;
+
+.carousel .carousel-item {
+  height: 300px;
 }
-.carousel{
-    background-color: #512DA8;
+
+.carousel .carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
 }
-.carousel-item{
-    height: 300px;
+
+.carousel .carousel-item p {
+  padding-left: 20px;
 }
-.carousel-item img{
-    min-height: 300px;
-    position: absolute;
-    top: 0;
-    left: 0;
+
+#carousel-buttons {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
 }
+
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite;
+}
+
+.modal-body, .modal-footer {
+  background-color: floralwhite;
+}
+
+.close {
+  color: floralwhite;
+}
+/*# sourceMappingURL=styles.css.map */
