@@ -8,7 +8,8 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
 ##Requirements: 
 
 
-    *For preview:
+   -For preview:
+   ---
 
 
     >Any device with internet access.
