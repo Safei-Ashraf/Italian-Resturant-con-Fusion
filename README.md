@@ -14,25 +14,26 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
    ---
 
 
-    >Any device with internet access.
+          > Any device with internet access.
 
 
-    >Web browser installed on the device used.
+          > Web browser installed on the device used.
+
+ ---
+
+   - For Development Environemt:
 
 
-   * - For development environemt:*
+          > text editor installed (VS code, sublime, etc.)
 
 
-      >text editor installed (VS code, sublime, etc.)
+          > download or clone repo.
 
 
-      >download or clone repo.
+          > open using your fav IDE.
 
-
-      >open using your fav IDE.
-
-
-#Usage:
+---
+# Usage:
 
 
 You can preview the live version by [clicking here!](https://reverent-varahamihira-2dc065.netlify.com)
