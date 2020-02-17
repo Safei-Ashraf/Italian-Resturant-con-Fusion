@@ -1,11 +1,13 @@
 # Italian-Resturant-con-Fusion 
 ![](img/logo.png)
+
+---
 Multi-pages website for italian resturant, displaying some famouse meals, promoting some and displaying more info about the business in a flexbible easy-access method.
 *The website is responsive across different devices.*
 
 
 
-##Requirements: 
+   ##Requirements: 
 
 
    -For preview:
