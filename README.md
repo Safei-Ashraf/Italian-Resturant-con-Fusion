@@ -10,7 +10,7 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
    ## Requirements:
 
 
-   - For Preview:
+  ### - For Preview:
    ---
 
 
@@ -21,7 +21,7 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
 
  ---
 
-   - For Development Environemt:
+  ### - For Development Environemt:
 
 
           > text editor installed (VS code, sublime, etc.)
@@ -33,7 +33,35 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
           > open using your fav IDE.
 
 ---
-# Usage:
+## Usage:
 
 
 You can preview the live version by [clicking here!](https://reverent-varahamihira-2dc065.netlify.com)
+
+
+## Tools Used For Development:
+
+
+     Bootstrap 4 
+     
+     
+     Git
+     
+     
+     NPM
+     
+     
+     jQuery
+     
+     
+     SASS
+     
+     
+     HTML
+     
+     
+     CSS
+     
+     
+     Lite-Server
+               
