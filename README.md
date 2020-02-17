@@ -7,10 +7,10 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
 
 
 
-   ##Requirements: 
+   ##Requirements:##
 
 
-   -For preview:
+   -For Preview:
    ---
 
 
