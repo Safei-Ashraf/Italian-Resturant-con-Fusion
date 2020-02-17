@@ -66,7 +66,18 @@ You can preview the live version by [clicking here!](https://reverent-varahamihi
 
 
            CSS
+           
+           
+           Font Awesome 
+
+
+
+          Google Fonts
+
 
 
            Lite-Server
+           
+           
+
                
