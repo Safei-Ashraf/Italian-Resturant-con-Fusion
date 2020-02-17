@@ -38,7 +38,7 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
           > open using your fav IDE.
 
 ---
-## Usage:
+## Demo:
 
 
 You can preview the live version by [clicking here!](https://reverent-varahamihira-2dc065.netlify.com)
