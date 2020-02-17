@@ -71,13 +71,8 @@ You can preview the live version by [clicking here!](https://reverent-varahamihi
            Font Awesome 
 
 
-
-          Google Fonts
-
+           Google Fonts
 
 
            Lite-Server
-           
-           
-
                
