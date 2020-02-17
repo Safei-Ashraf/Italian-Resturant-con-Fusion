@@ -7,10 +7,10 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
 
 
 
-   ##Requirements:##
+   ## Requirements:
 
 
-   -For Preview:
+   - For Preview:
    ---
 
 
@@ -20,7 +20,7 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
     >Web browser installed on the device used.
 
 
-   *-For development environemt:
+   * - For development environemt:*
 
 
       >text editor installed (VS code, sublime, etc.)
