@@ -6,7 +6,7 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
 *The website is responsive across different devices.*
 
 
-<a href="https://reverent-varahamihira-2dc065.netlify.com" target="_blank"> Visit</a>
+<a href="https://reverent-varahamihira-2dc065.netlify.com" target="blank"> Visit</a>
 
 
 [Visit Now!](https://reverent-varahamihira-2dc065.netlify.com)
