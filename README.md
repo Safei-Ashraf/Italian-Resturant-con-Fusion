@@ -8,13 +8,13 @@ Multi-pages website for italian resturant, displaying some famouse meals, promot
 ##Requirements: 
 
 
-*For preview:
+    *For preview:
 
 
->Any device with internet access.
+    >Any device with internet access.
 
 
->Web browser installed on the device used.
+    >Web browser installed on the device used.
 
 
 *For development environemt:
