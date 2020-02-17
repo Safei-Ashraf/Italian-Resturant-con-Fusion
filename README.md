@@ -68,11 +68,14 @@ You can preview the live version by [clicking here!](https://reverent-varahamihi
            CSS
            
            
-           Font Awesome 
+           Font Awesome Icons
+           
+           
+           Bootstrap Social Icons
 
 
            Google Fonts
-
+           
 
            Lite-Server
                
